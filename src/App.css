@@ -33,6 +33,7 @@ img{
 .imprevistos{
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 section{
@@ -80,6 +81,7 @@ p{
     padding-right: 0.5rem;
     height: 100%;
     padding-bottom: 3rem;
+    overflow: scroll;
   }
 
 
