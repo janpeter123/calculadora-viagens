@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calculadora-viagens/static/css/main.0506e0de.css",
+    "main.js": "/calculadora-viagens/static/js/main.1668fd8e.js",
+    "static/js/787.cbd83dc3.chunk.js": "/calculadora-viagens/static/js/787.cbd83dc3.chunk.js",
+    "index.html": "/calculadora-viagens/index.html",
+    "main.0506e0de.css.map": "/calculadora-viagens/static/css/main.0506e0de.css.map",
+    "main.1668fd8e.js.map": "/calculadora-viagens/static/js/main.1668fd8e.js.map",
+    "787.cbd83dc3.chunk.js.map": "/calculadora-viagens/static/js/787.cbd83dc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0506e0de.css",
+    "static/js/main.1668fd8e.js"
+  ]
+}
